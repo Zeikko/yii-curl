@@ -1,0 +1,13 @@
+{
+    "name": "zeikko/yii-curl",
+    "type": "library",
+    "keywords": ["yii", "curl"],
+    "authors": [
+        {
+            "name": "Jaakko Ojalehto",
+            "email": "jaakko@ojalehto.fi"
+        }
+    ],
+    "require": {
+    }
+}
